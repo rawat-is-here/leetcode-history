@@ -36,8 +36,10 @@ public:
 
         if (!temp.empty())
         {
-        
-         ranges.push_back(to_string(temp.front()) + "->" + to_string(temp.back()));
+            if (temp.size() == 1)
+                ranges.push_back(to_string(temp[0]));
+            else
+                ranges.push_back(to_string(temp.front()) + "->" + to_string(temp.back()));
         }
         else
         {
