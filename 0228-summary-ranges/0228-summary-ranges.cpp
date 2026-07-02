@@ -26,7 +26,7 @@ public:
                 counter = 0;
             }
 
-            else
+            else if((long long)nums[i + 1] - nums[i] != 1 && counter!= 0)
             {
                 ranges.push_back(to_string(temp.front()) + "->" + to_string(temp.back()));
                 temp.clear();
