@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/rawat-is-here/leetcode-history/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/rawat-is-here/leetcode-history/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/rawat-is-here/leetcode-history/tree/master/0219-contains-duplicate-ii) |
+| [0220-contains-duplicate-iii](https://github.com/rawat-is-here/leetcode-history/tree/master/0220-contains-duplicate-iii) |
 ## Hash Table
 |  |
 | ------- |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/rawat-is-here/leetcode-history/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/rawat-is-here/leetcode-history/tree/master/0217-contains-duplicate) |
+| [0220-contains-duplicate-iii](https://github.com/rawat-is-here/leetcode-history/tree/master/0220-contains-duplicate-iii) |
 ## Counting
 |  |
 | ------- |
@@ -32,4 +34,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/rawat-is-here/leetcode-history/tree/master/0219-contains-duplicate-ii) |
+| [0220-contains-duplicate-iii](https://github.com/rawat-is-here/leetcode-history/tree/master/0220-contains-duplicate-iii) |
+## Bucket Sort
+|  |
+| ------- |
+| [0220-contains-duplicate-iii](https://github.com/rawat-is-here/leetcode-history/tree/master/0220-contains-duplicate-iii) |
+## Ordered Set
+|  |
+| ------- |
+| [0220-contains-duplicate-iii](https://github.com/rawat-is-here/leetcode-history/tree/master/0220-contains-duplicate-iii) |
 <!---LeetCode Topics End-->
