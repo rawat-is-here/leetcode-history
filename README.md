@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0228-summary-ranges](https://github.com/rawat-is-here/leetcode-history/tree/master/0228-summary-ranges) |
 | [0268-missing-number](https://github.com/rawat-is-here/leetcode-history/tree/master/0268-missing-number) |
 | [0455-assign-cookies](https://github.com/rawat-is-here/leetcode-history/tree/master/0455-assign-cookies) |
+| [0485-max-consecutive-ones](https://github.com/rawat-is-here/leetcode-history/tree/master/0485-max-consecutive-ones) |
 ## Hash Table
 |  |
 | ------- |
