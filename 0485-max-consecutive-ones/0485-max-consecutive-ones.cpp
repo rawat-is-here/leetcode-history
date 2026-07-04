@@ -6,7 +6,7 @@ public:
         vector<int> result;
         for(int i = 0;i<nums.size();i++)
         {
-            if(nums[i] == 1 && ( ptr<0 || nums[ptr] == 1)) //nums i 1 ho provided that uske pehle wala bhi ek ho ya fir ho hi na, yani ya fir pehla hi element 1 ho, to fir count badhao
+            if(nums[i] == 1 && ( ptr<0 || nums[ptr] == 1)) //ya to nums[i] pehla element hai ya lagataar  1 hai
             {
             count++;
             }
@@ -23,7 +23,8 @@ public:
             ptr++; //ptr to badhega hi
 
         }
-        //right after the for loop finishes, with continuous 1 and we ended the array
+        //right after the for loop finishes, if with continuous 1 and we ended the array so the count wount have been updated
+        if(nums[nums.size()-1] == 1)
         result.push_back(count);
         return *max_element(result.begin(), result.end());
 
