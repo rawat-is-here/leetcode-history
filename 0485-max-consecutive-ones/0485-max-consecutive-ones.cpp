@@ -10,8 +10,8 @@ public:
             {
             count++;
             }
-            else if(nums[i] == 1 && ( (ptr >= 0 && nums[ptr] == 0) || (ptr + 2 < nums.size() && nums[ptr + 2] == 0) ))
-            count++; //handles isolated single 1
+            else if(nums[i] == 1 && (ptr >= 0 && nums[ptr] == 0))
+            count++; //agar nums[i] pehla element nahi hone ke sath sath uske pehele 0 aa raha hai
             
             else if(nums[i] == 0)
             {
