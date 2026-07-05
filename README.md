@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/rawat-is-here/leetcode-history/tree/master/0268-missing-number) |
 | [0455-assign-cookies](https://github.com/rawat-is-here/leetcode-history/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/rawat-is-here/leetcode-history/tree/master/0485-max-consecutive-ones) |
+| [0495-teemo-attacking](https://github.com/rawat-is-here/leetcode-history/tree/master/0495-teemo-attacking) |
 ## Hash Table
 |  |
 | ------- |
@@ -70,4 +71,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/rawat-is-here/leetcode-history/tree/master/0455-assign-cookies) |
+## Simulation
+|  |
+| ------- |
+| [0495-teemo-attacking](https://github.com/rawat-is-here/leetcode-history/tree/master/0495-teemo-attacking) |
 <!---LeetCode Topics End-->
