@@ -32,10 +32,8 @@ public:
         // now what if the last element is left out? we are doing all this for
         // last left out element
         if (!temp.empty()) {
-            if (temp.size() == 1) // there is a last unique element left
-                range.push_back(to_string(temp[0]));
-            // what if at last there is a range's last element
-            else if (temp.size() > 1) {
+            
+             {
                 range.push_back(to_string(temp.front()) + "->" +
                                 to_string(temp.back()));
             }
