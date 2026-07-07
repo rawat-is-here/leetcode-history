@@ -12,9 +12,8 @@ public:
             for(char &ch : lower_word) {
                 ch = tolower(ch);
             }
-            bool flaga = true;
-            bool flagb = true;
-            bool flagc = true;
+            bool flag = true;
+          
             
 
                 if(find(a.begin(), a.end(), lower_word[0])!=a.end())
@@ -23,9 +22,8 @@ public:
                     {
                         if(find(a.begin(), a.end(), lower_word[k])==a.end())
                         {
-                        flaga = false;
-                        flagb = false;
-                        flagc = false;
+                        flag = false;
+                       
                         }
                     }
                 }
@@ -35,9 +33,8 @@ public:
                     {
                         if(find(b.begin(), b.end(), lower_word[k])==b.end())
                         {
-                        flagb  = false;
-                        flaga = false;
-                        flagc = false;
+                        flag  = false;
+                        
                         }
                     }
                 }
@@ -46,15 +43,14 @@ public:
                     for(int k = 0;k<lower_word.size();k++)
                     {
                         if(find(c.begin(), c.end(), lower_word[k])==c.end()){
-                        flagc  = false;
-                        flaga = false;
-                        flagb = false;
+                        flag  = false;
+                        
                     }
                     }
 
                 }
             
-            if(!(flaga==false && flagb == false && flagc == false))
+            if(flag == true)
             result.push_back(word);
             
         }
