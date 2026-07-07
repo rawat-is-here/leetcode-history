@@ -1,60 +1,29 @@
 class Solution {
 public:
     vector<string> findWords(vector<string>& words) {
-        string a = "qwertyuiop";
-        string b = "asdfghjkl";
-        string c = "zxcvbnm";
+        string row1  = "qwertyuiop";
+        string row2 = "asdfghjkl";
+        string row3 = "zxcvbnm";
         vector<string> result;
-        for(int i = 0;i<words.size();i++)
+        for(string word:words)
         {
-            string word = words[i];            
-            string lower_word = word;
-            for(char &ch : lower_word) {
+            int row[3] = {0,0,0};
+
+            for(char ch:word)
+            {
                 ch = tolower(ch);
+                if(find(row1.begin(), row1.end(), ch)!=row1.end())
+                row[0] = 1;
+                else if(find(row2.begin(), row2.end(), ch)!=row2.end())
+                row[1] = 1;
+                else if(find(row3.begin(), row3.end(), ch)!=row3.end())
+                row[2] = 1;
             }
-            bool flag = true;
-          
-            
-
-                if(find(a.begin(), a.end(), lower_word[0])!=a.end())
-                {
-                    for(int k = 0;k<lower_word.size();k++)
-                    {
-                        if(find(a.begin(), a.end(), lower_word[k])==a.end())
-                        {
-                        flag = false;
-                       
-                        }
-                    }
-                }
-                    if(find(b.begin(), b.end(), lower_word[0])!=b.end())
-                {
-                    for(int k = 0;k<lower_word.size();k++)
-                    {
-                        if(find(b.begin(), b.end(), lower_word[k])==b.end())
-                        {
-                        flag  = false;
-                        
-                        }
-                    }
-                }
-                    if(find(c.begin(), c.end(), lower_word[0])!=c.end())
-                {
-                    for(int k = 0;k<lower_word.size();k++)
-                    {
-                        if(find(c.begin(), c.end(), lower_word[k])==c.end()){
-                        flag  = false;
-                        
-                    }
-                    }
-
-                }
-            
-            if(flag == true)
+            if(row[0]+row[1]+row[2]==1)
             result.push_back(word);
-            
+
         }
-        return result;
+              return result;
         
     }
 };
