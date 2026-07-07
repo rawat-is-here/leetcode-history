@@ -15,8 +15,7 @@ public:
             bool flaga = true;
             bool flagb = true;
             bool flagc = true;
-            for(int j = 0;j<lower_word.size();j++)
-            {
+            
 
                 if(find(a.begin(), a.end(), lower_word[0])!=a.end())
                 {
@@ -24,7 +23,7 @@ public:
                     {
                         if(find(a.begin(), a.end(), lower_word[k])==a.end())
                         {
-                        flaga  = false;
+                        flaga = false;
                         flagb = false;
                         flagc = false;
                         }
@@ -54,7 +53,7 @@ public:
                     }
 
                 }
-            }
+            
             if(!(flaga==false && flagb == false && flagc == false))
             result.push_back(word);
             
