@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/rawat-is-here/leetcode-history/tree/master/0485-max-consecutive-ones) |
 | [0495-teemo-attacking](https://github.com/rawat-is-here/leetcode-history/tree/master/0495-teemo-attacking) |
 | [0496-next-greater-element-i](https://github.com/rawat-is-here/leetcode-history/tree/master/0496-next-greater-element-i) |
+| [0500-keyboard-row](https://github.com/rawat-is-here/leetcode-history/tree/master/0500-keyboard-row) |
 ## Hash Table
 |  |
 | ------- |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/rawat-is-here/leetcode-history/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/rawat-is-here/leetcode-history/tree/master/0268-missing-number) |
 | [0496-next-greater-element-i](https://github.com/rawat-is-here/leetcode-history/tree/master/0496-next-greater-element-i) |
+| [0500-keyboard-row](https://github.com/rawat-is-here/leetcode-history/tree/master/0500-keyboard-row) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -85,4 +87,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/rawat-is-here/leetcode-history/tree/master/0496-next-greater-element-i) |
+## String
+|  |
+| ------- |
+| [0500-keyboard-row](https://github.com/rawat-is-here/leetcode-history/tree/master/0500-keyboard-row) |
 <!---LeetCode Topics End-->
