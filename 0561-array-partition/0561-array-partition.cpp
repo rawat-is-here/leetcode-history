@@ -4,6 +4,7 @@ public:
         int n = nums.size();
         n = n/2;
         //agar maine sort kiya uske baad, i need ki maximum should be the sums of minimum hone ke liye, jisko minimum liya ho usse JUST bada uska pair ho
+        //to fir sort hone ke baad minimums will be remainig at odd places (evenn index)
         sort(nums.begin(), nums.end());
         int sum = 0;
         for(int i = 0;i<n;i++)
