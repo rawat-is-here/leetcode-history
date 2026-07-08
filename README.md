@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0500-keyboard-row](https://github.com/rawat-is-here/leetcode-history/tree/master/0500-keyboard-row) |
 | [0506-relative-ranks](https://github.com/rawat-is-here/leetcode-history/tree/main/0506-relative-ranks/) | Easy |
 | [0561-array-partition](https://github.com/rawat-is-here/leetcode-history/tree/main/0561-array-partition/) | Easy |
+| [0566-reshape-the-matrix](https://github.com/rawat-is-here/leetcode-history/tree/main/0566-reshape-the-matrix/) | Easy |
 | [1646-get-maximum-in-generated-array](https://github.com/rawat-is-here/leetcode-history/tree/main/1646-get-maximum-in-generated-array/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0495-teemo-attacking](https://github.com/rawat-is-here/leetcode-history/tree/master/0495-teemo-attacking) |
+| [0566-reshape-the-matrix](https://github.com/rawat-is-here/leetcode-history/tree/main/0566-reshape-the-matrix/) | Easy |
 | [1646-get-maximum-in-generated-array](https://github.com/rawat-is-here/leetcode-history/tree/main/1646-get-maximum-in-generated-array/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
@@ -113,4 +115,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0561-array-partition](https://github.com/rawat-is-here/leetcode-history/tree/main/0561-array-partition/) | Easy |
+## Matrix
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0566-reshape-the-matrix](https://github.com/rawat-is-here/leetcode-history/tree/main/0566-reshape-the-matrix/) | Easy |
 <!---LeetCode Topics End-->
