@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0506-relative-ranks](https://github.com/rawat-is-here/leetcode-history/tree/main/0506-relative-ranks/) | Easy |
 | [0561-array-partition](https://github.com/rawat-is-here/leetcode-history/tree/main/0561-array-partition/) | Easy |
 | [0566-reshape-the-matrix](https://github.com/rawat-is-here/leetcode-history/tree/main/0566-reshape-the-matrix/) | Easy |
+| [0575-distribute-candies](https://github.com/rawat-is-here/leetcode-history/tree/main/0575-distribute-candies/) | Easy |
 | [1646-get-maximum-in-generated-array](https://github.com/rawat-is-here/leetcode-history/tree/main/1646-get-maximum-in-generated-array/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/rawat-is-here/leetcode-history/tree/master/0268-missing-number) |
 | [0496-next-greater-element-i](https://github.com/rawat-is-here/leetcode-history/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/rawat-is-here/leetcode-history/tree/master/0500-keyboard-row) |
+| [0575-distribute-candies](https://github.com/rawat-is-here/leetcode-history/tree/main/0575-distribute-candies/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
