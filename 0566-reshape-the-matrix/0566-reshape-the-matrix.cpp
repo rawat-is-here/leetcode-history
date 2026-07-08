@@ -1,7 +1,7 @@
 class Solution {
 public:
     vector<vector<int>> matrixReshape(vector<vector<int>>& mat, int r, int c) {
-        vector<vector<int>> wanted(r, vector<int>(c, 0));
+        vector<vector<int>> wanted;
         int rold = mat.size();
         int cold = mat[0].size();
         if(rold*cold != r*c)
@@ -22,11 +22,13 @@ public:
         index = 0;
         for(int i = 0;i<r;i++)
         {
+            vector<int> temp;
             for(int j = 0;j<c;j++)
             {
-                wanted[i][j] = hash[index];
+                temp.push_back(hash[index]);
                 index++;
             }
+            wanted.push_back(temp);
         }
         return wanted;
     }
