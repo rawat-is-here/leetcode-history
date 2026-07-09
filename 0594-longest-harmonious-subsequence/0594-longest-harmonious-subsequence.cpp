@@ -11,7 +11,7 @@ public:
             // If the window becomes invalid (diff > 1), shrink it from the left
             while (nums[right] - nums[left] > 1) {
                 left++;
-            }
+            } //jab tak tumehin +1 na mile, tab tak ghumte raho
             
             // Only measure if it's a strictly harmonious subsequence (diff == 1)
             if (nums[right] - nums[left] == 1) {
