@@ -9,12 +9,6 @@ public:
         int i = nums.size() - 1;
         while (k < i)
         {
-            if (k == i)
-            {
-                // this means there is no valid max for my min, we simply
-                k++;
-                i = nums.size() - 1; // we restart
-            }
             if (nums[i] - nums[k] == 1)
             {
 
