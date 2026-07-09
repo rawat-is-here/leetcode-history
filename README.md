@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/rawat-is-here/leetcode-history/tree/main/0561-array-partition/) | Easy |
 | [0566-reshape-the-matrix](https://github.com/rawat-is-here/leetcode-history/tree/main/0566-reshape-the-matrix/) | Easy |
 | [0575-distribute-candies](https://github.com/rawat-is-here/leetcode-history/tree/main/0575-distribute-candies/) | Easy |
+| [0594-longest-harmonious-subsequence](https://github.com/rawat-is-here/leetcode-history/tree/main/0594-longest-harmonious-subsequence/) | Easy |
 | [1646-get-maximum-in-generated-array](https://github.com/rawat-is-here/leetcode-history/tree/main/1646-get-maximum-in-generated-array/) | Easy |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/rawat-is-here/leetcode-history/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
 ## Hash Table
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/rawat-is-here/leetcode-history/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/rawat-is-here/leetcode-history/tree/master/0500-keyboard-row) |
 | [0575-distribute-candies](https://github.com/rawat-is-here/leetcode-history/tree/main/0575-distribute-candies/) | Easy |
+| [0594-longest-harmonious-subsequence](https://github.com/rawat-is-here/leetcode-history/tree/main/0594-longest-harmonious-subsequence/) | Easy |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/rawat-is-here/leetcode-history/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
@@ -48,15 +50,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/rawat-is-here/leetcode-history/tree/master/0455-assign-cookies) |
 | [0506-relative-ranks](https://github.com/rawat-is-here/leetcode-history/tree/main/0506-relative-ranks/) | Easy |
 | [0561-array-partition](https://github.com/rawat-is-here/leetcode-history/tree/main/0561-array-partition/) | Easy |
+| [0594-longest-harmonious-subsequence](https://github.com/rawat-is-here/leetcode-history/tree/main/0594-longest-harmonious-subsequence/) | Easy |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0169-majority-element](https://github.com/rawat-is-here/leetcode-history/tree/master/0169-majority-element) |
+| [0594-longest-harmonious-subsequence](https://github.com/rawat-is-here/leetcode-history/tree/main/0594-longest-harmonious-subsequence/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0219-contains-duplicate-ii](https://github.com/rawat-is-here/leetcode-history/tree/master/0219-contains-duplicate-ii) |
 | [0220-contains-duplicate-iii](https://github.com/rawat-is-here/leetcode-history/tree/master/0220-contains-duplicate-iii) |
+| [0594-longest-harmonious-subsequence](https://github.com/rawat-is-here/leetcode-history/tree/main/0594-longest-harmonious-subsequence/) | Easy |
 ## Bucket Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
