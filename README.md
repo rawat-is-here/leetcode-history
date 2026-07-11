@@ -138,14 +138,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [2685-count-the-number-of-complete-components](https://github.com/rawat-is-here/leetcode-history/tree/main/2685-count-the-number-of-complete-components/) | Medium |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/rawat-is-here/leetcode-history/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
 ## Graph Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [2685-count-the-number-of-complete-components](https://github.com/rawat-is-here/leetcode-history/tree/main/2685-count-the-number-of-complete-components/) | Medium |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/rawat-is-here/leetcode-history/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/rawat-is-here/leetcode-history/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/rawat-is-here/leetcode-history/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
+## Depth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2685-count-the-number-of-complete-components](https://github.com/rawat-is-here/leetcode-history/tree/main/2685-count-the-number-of-complete-components/) | Medium |
+## Breadth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2685-count-the-number-of-complete-components](https://github.com/rawat-is-here/leetcode-history/tree/main/2685-count-the-number-of-complete-components/) | Medium |
 <!---LeetCode Topics End-->
