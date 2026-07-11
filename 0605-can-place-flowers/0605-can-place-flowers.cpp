@@ -4,13 +4,10 @@ public:
         int ptrprev = -1;
         int ptrnext = 1;
         int count = 0;
-        if(n>flowerbed.size())
-        {
-            return false;
-        }
+        
         if(n==0)
         return true;
-        
+
         if(flowerbed.size()==1)
         {
             if(flowerbed[0] == 1)
