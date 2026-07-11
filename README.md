@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0594-longest-harmonious-subsequence](https://github.com/rawat-is-here/leetcode-history/tree/main/0594-longest-harmonious-subsequence/) | Easy |
 | [0598-range-addition-ii](https://github.com/rawat-is-here/leetcode-history/tree/main/0598-range-addition-ii/) | Easy |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/rawat-is-here/leetcode-history/tree/main/0599-minimum-index-sum-of-two-lists/) | Easy |
+| [0605-can-place-flowers](https://github.com/rawat-is-here/leetcode-history/tree/main/0605-can-place-flowers/) | Easy |
 | [1646-get-maximum-in-generated-array](https://github.com/rawat-is-here/leetcode-history/tree/main/1646-get-maximum-in-generated-array/) | Easy |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/rawat-is-here/leetcode-history/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/rawat-is-here/leetcode-history/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0455-assign-cookies](https://github.com/rawat-is-here/leetcode-history/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/rawat-is-here/leetcode-history/tree/main/0561-array-partition/) | Easy |
+| [0605-can-place-flowers](https://github.com/rawat-is-here/leetcode-history/tree/main/0605-can-place-flowers/) | Easy |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/rawat-is-here/leetcode-history/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 ## Simulation
 | Problem Name | Difficulty |
