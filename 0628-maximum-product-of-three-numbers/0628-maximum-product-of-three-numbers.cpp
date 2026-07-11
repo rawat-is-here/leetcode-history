@@ -13,5 +13,5 @@ public:
         
         // 4. Return the maximum of the two options
         return max(option1, option2);
-    }
+     }
 };
