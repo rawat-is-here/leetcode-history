@@ -1,17 +1,38 @@
 class Solution {
 public:
     int maximumProduct(vector<int>& nums) {
-        // 1. Sort the vector normally (ascending order)
-        sort(nums.begin(), nums.end());
-        int n = nums.size();
+        // Initialize the 3 largest values to minimum possible integers
+        int max1 = INT_MIN, max2 = INT_MIN, max3 = INT_MIN;
+        // Initialize the 2 smallest values to maximum possible integers
+        int min1 = INT_MAX, min2 = INT_MAX;
         
-        // 2. Scenario A: The 3 largest numbers
-        int option1 = nums[n - 1] * nums[n - 2] * nums[n - 3];
+        for (int n : nums) {
+            // Update the three largest values
+            if (n > max1) {
+                max3 = max2;
+                max2 = max1;
+                max1 = n;
+            } else if (n > max2) {
+                max3 = max2;
+                max2 = n;
+            } else if (n > max3) {
+                max3 = n;
+            }
+            
+            // Update the two smallest values
+            if (n < min1) {
+                min2 = min1;
+                min1 = n;
+            } else if (n < min2) {
+                min2 = n;
+            }
+        }
         
-        // 3. Scenario B: The 2 smallest (most negative) numbers * the largest number
-        int option2 = nums[0] * nums[1] * nums[n - 1];
+        // Option 1: Product of the 3 largest numbers
+        int option1 = max1 * max2 * max3;
+        // Option 2: Product of the 2 most negative numbers * the largest number
+        int option2 = min1 * min2 * max1;
         
-        // 4. Return the maximum of the two options
         return max(option1, option2);
-     }
+    }
 };
