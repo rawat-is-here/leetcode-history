@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0575-distribute-candies](https://github.com/rawat-is-here/leetcode-history/tree/main/0575-distribute-candies/) | Easy |
 | [0594-longest-harmonious-subsequence](https://github.com/rawat-is-here/leetcode-history/tree/main/0594-longest-harmonious-subsequence/) | Easy |
 | [0598-range-addition-ii](https://github.com/rawat-is-here/leetcode-history/tree/main/0598-range-addition-ii/) | Easy |
+| [0599-minimum-index-sum-of-two-lists](https://github.com/rawat-is-here/leetcode-history/tree/main/0599-minimum-index-sum-of-two-lists/) | Easy |
 | [1646-get-maximum-in-generated-array](https://github.com/rawat-is-here/leetcode-history/tree/main/1646-get-maximum-in-generated-array/) | Easy |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/rawat-is-here/leetcode-history/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/rawat-is-here/leetcode-history/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0500-keyboard-row](https://github.com/rawat-is-here/leetcode-history/tree/master/0500-keyboard-row) |
 | [0575-distribute-candies](https://github.com/rawat-is-here/leetcode-history/tree/main/0575-distribute-candies/) | Easy |
 | [0594-longest-harmonious-subsequence](https://github.com/rawat-is-here/leetcode-history/tree/main/0594-longest-harmonious-subsequence/) | Easy |
+| [0599-minimum-index-sum-of-two-lists](https://github.com/rawat-is-here/leetcode-history/tree/main/0599-minimum-index-sum-of-two-lists/) | Easy |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/rawat-is-here/leetcode-history/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
@@ -120,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0500-keyboard-row](https://github.com/rawat-is-here/leetcode-history/tree/master/0500-keyboard-row) |
+| [0599-minimum-index-sum-of-two-lists](https://github.com/rawat-is-here/leetcode-history/tree/main/0599-minimum-index-sum-of-two-lists/) | Easy |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/rawat-is-here/leetcode-history/tree/main/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii/) | Medium |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
