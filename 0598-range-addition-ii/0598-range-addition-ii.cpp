@@ -1,14 +1,33 @@
 class Solution {
 public:
     int maxCount(int m, int n, vector<vector<int>>& ops) {
-        // If there are no operations, the entire m x n matrix stays 0,
-        // so all m * n elements are technically the "maximum" value.
-        for (const auto& op : ops) {
-            m = min(m, op[0]); // Find the minimum row restriction
-            n = min(n, op[1]); // Find the minimum column restriction
+        vector<vector<int>> matrix(m, vector<int>(n, 0));
+        for(vector<int> op:ops)
+        {
+            for(int i = 0;i<op[0];i++)
+            {
+                for(int j = 0;j<op[1];j++)
+                {
+                    matrix[i][j]++;
+
+                }
+            }
         }
+        int max = matrix[0][0];
+        for(vector<int> row : matrix)
+        {
+            for(int element : row)
+            {
+            if (element > max)
+            {
+            max = element;
+            count = 1;
+            }
+            else if(element == max)
+            count++;
+            }
+        }
+        return count;
         
-        // The total number of maximum elements is the area of the overlapping region
-        return m * n;
     }
 };
