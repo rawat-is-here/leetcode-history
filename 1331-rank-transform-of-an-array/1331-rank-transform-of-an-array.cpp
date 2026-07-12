@@ -4,24 +4,27 @@ public:
     vector<int> arrayRankTransform(vector<int>& arr) {
         if (arr.size() == 0)
             return {};
-        vector<int> result;
+        int rank = 1;
         vector<int> backup(arr);
-        sort(arr.begin(), arr.end());
-        int k = 0;
-        for (int i = 1; i < arr.size(); i++) {
-            if (arr[k] != arr[i]) {
-                k++;
-                arr[k] = arr[i];
-            }
-        } // till here k will be the size of the unique array
         unordered_map<int, int> mp;
-        for (int i = 0; i < k + 1; i++)
-            mp[arr[i]] = i + 1;
+        sort(arr.begin(), arr.end());
+        mp[arr[0]] = rank;
+        for (int i = 1; i < arr.size(); i++) {
+            if (arr[i - 1] < arr[i]) {
 
-        for (int i = 0; i < backup.size(); i++) {
-            result.push_back(mp[backup[i]]);
+                rank++;
+            }
+            mp[arr[i]] = rank;
         }
 
-        return result;
+        for (int i = 0; i < arr.size(); i++) {
+            backup[i] = mp[backup[i]];
+        }
+        // else if(arr[i+1] == arr[i])
+        // {
+        //     mp[arr[i]] = rank;
+        // }
+
+        return backup;
     }
 };
