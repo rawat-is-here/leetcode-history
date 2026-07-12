@@ -16,8 +16,8 @@ public:
                 int count = 0;
                 
                 // Loops through the 3x3 neighborhood, automatically clamped to image boundaries
-                for (int x = max(0, i - 1); x <= min(m - 1, i + 1); ++x) {
-                    for (int y = max(0, j - 1); y <= min(n - 1, j + 1); ++y) {
+                for (int x = max(0, i - 1); x <= min(m - 1, i + 1); x++) {
+                    for (int y = max(0, j - 1); y <= min(n - 1, j + 1); y++) {
                         sum += img[x][y];
                         count++;
                     }
