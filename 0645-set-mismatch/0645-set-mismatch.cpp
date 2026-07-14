@@ -1,27 +1,30 @@
 class Solution {
 public:
-    std::vector<int> findErrorNums(std::vector<int>& nums) {
-        int duplicate = -1;
-        int lost = -1;
-        
-        // Step 1: Find the duplicate using negative marking
-        for (int i = 0; i < nums.size(); i++) {
-            int val = std::abs(nums[i]);
-            if (nums[val - 1] < 0) {
-                duplicate = val; // Already marked, so it's the duplicate
-            } else {
-                nums[val - 1] *= -1; // Mark as visited
+    vector<int> findErrorNums(vector<int>& nums) {
+        vector<int> result;
+        int lost, duplicate;
+        int n = nums.size();
+        int sum = 0;
+        sort(nums.begin(), nums.end());
+        for(int num:nums)
+        sum = sum+num;
+        for(int i = 0;i<nums.size()-1;i++)
+        {
+            if(nums[i] == nums[i+1])
+            {
+                duplicate = nums[i];        
             }
-        }
         
-        // Step 2: Find the missing number (the index that remains positive)
-        for (int i = 0; i < nums.size(); i++) {
-            if (nums[i] > 0) {
-                lost = i + 1;
-                break;
-            }
-        }
-        
-        return {duplicate, lost};
+        } //now the lost elemenent can be duplicate + diff or duplicate -diff
+        int diff = abs((n*(n+1)/2)-sum);
+        if(n*(n+1)/2 > sum)
+        lost = duplicate+diff;
+        else
+        lost = duplicate-diff;
+
+        result.push_back(duplicate);
+        result.push_back(lost);
+        return result;
+
     }
 };
