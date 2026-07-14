@@ -10,7 +10,7 @@ public:
             
             // If the window becomes invalid (diff > 1), shrink it from the left
             while (nums[right] - nums[left] > 1) {
-                left++;
+                left++; //SORTED ORDER MEIN, ya to equal aa sakta hai ya fir diff >=1 ok na, to jab jab diff 1 se bada mil raha hai, shrink the windw
             }
             
             // Only measure if it's a strictly harmonious subsequence (diff == 1)
