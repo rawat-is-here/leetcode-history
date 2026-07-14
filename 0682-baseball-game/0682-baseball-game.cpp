@@ -2,9 +2,6 @@ class Solution {
 public:
     int calPoints(vector<string>& operations) {
         vector<int> temp(operations.size());
-        int asciiC = 67;
-        int asciiD = 68;
-        int asciiplus = 43;
         for(int i = 0;i<operations.size();i++)
         {
             if(!(operations[i] == "D" || operations[i] == "C" || operations[i] == "+")) //agar inek alawa kuch bhi hai to
