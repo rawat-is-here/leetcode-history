@@ -1,35 +1,23 @@
 class Solution {
 public:
     int findLengthOfLCIS(vector<int>& nums) {
-        vector<int> temp;
-        int count = 0;
-        if(nums.size()==1)
-        return 1;
-        for(int i = 0;i<nums.size()-1;i++)
-        {
-            if(nums[i] < nums[i+1])
-            {
-                count++;
-            }
-            else
-            {
-                temp.push_back(count+1);
-                count = 0;
+        if (nums.empty()) return 0; // Handle empty input safely
 
-            }
+        int max_len = 1;
+        int current_len = 1;
 
-        }
-        if(nums[nums.size()-1] > nums[nums.size()-2] && count !=0) //if it was an onogin streak and last one left out
-        {
-        count++;
-        temp.push_back(count);
+        for (size_t i = 1; i < nums.size(); i++) {
+            if (nums[i] > nums[i - 1]) {
+                // Streak continues
+                current_len++;
+            } else {
+                // Streak broke, update max and reset current streak
+                max_len = max(max_len, current_len);
+                current_len = 1;
+            }
         }
 
-        else if(nums[nums.size()-1] < nums[nums.size()-2]) //if last element is lesser than second last like 1 3 5 2, so by then coming till 2 will already have count, just make sure that unique element is recorded
-        temp.push_back(1);
-
-        
-        
-        return *max_element(temp.begin(), temp.end());
+        // One final check in case the longest streak extended to the very end
+        return max(max_len, current_len);
     }
 };
