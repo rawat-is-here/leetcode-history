@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0661-image-smoother](https://github.com/rawat-is-here/leetcode-history/tree/main/0661-image-smoother/) | Easy |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/rawat-is-here/leetcode-history/tree/main/0674-longest-continuous-increasing-subsequence/) | Easy |
 | [0682-baseball-game](https://github.com/rawat-is-here/leetcode-history/tree/main/0682-baseball-game/) | Easy |
+| [0697-degree-of-an-array](https://github.com/rawat-is-here/leetcode-history/tree/main/0697-degree-of-an-array/) | Easy |
 | [1331-rank-transform-of-an-array](https://github.com/rawat-is-here/leetcode-history/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1646-get-maximum-in-generated-array](https://github.com/rawat-is-here/leetcode-history/tree/main/1646-get-maximum-in-generated-array/) | Easy |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/rawat-is-here/leetcode-history/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0594-longest-harmonious-subsequence](https://github.com/rawat-is-here/leetcode-history/tree/main/0594-longest-harmonious-subsequence/) | Easy |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/rawat-is-here/leetcode-history/tree/main/0599-minimum-index-sum-of-two-lists/) | Easy |
 | [0645-set-mismatch](https://github.com/rawat-is-here/leetcode-history/tree/main/0645-set-mismatch/) | Easy |
+| [0697-degree-of-an-array](https://github.com/rawat-is-here/leetcode-history/tree/main/0697-degree-of-an-array/) | Easy |
 | [1331-rank-transform-of-an-array](https://github.com/rawat-is-here/leetcode-history/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/rawat-is-here/leetcode-history/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
 ## Divide and Conquer
