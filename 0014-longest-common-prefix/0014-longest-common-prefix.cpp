@@ -6,15 +6,10 @@ public:
         int counter = 0;
         string prefix;
         string min_str = strs[0]; 
-        for(string str: strs)
+        
+        for(int i = 0;i<strs[0].size();i++)
         {
-            if(min_str.size() > str.size())
-            min_str = str;
-        }
-
-        for(int i = 0;i<min_str.size();i++)
-        {
-            prefix = prefix + min_str[i];
+            prefix = prefix + strs[0][i];
             for(string str : strs)
             {
                 if(str.find(prefix) == 0)
