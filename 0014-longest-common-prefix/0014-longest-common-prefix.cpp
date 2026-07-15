@@ -5,7 +5,7 @@ public:
         if (strs.empty()) return ""; // Safeguard for empty input
         
         // 1. Fixed: Changed variable name from 'min' to 'min_str' to avoid conflict with std::min
-        string min_str = "ABCDEFGHIJKLMNOPQRSTUVWXYZAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"; 
+        string min_str = strs[0]; 
         
         // 2. Fixed: Made 'chhoti' an int to store the size, and removed the duplicate declaration
         int chhoti = min_str.size(); 
