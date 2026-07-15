@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0014-longest-common-prefix](https://github.com/rawat-is-here/leetcode-history/tree/main/0014-longest-common-prefix/) | Easy |
 | [0169-majority-element](https://github.com/rawat-is-here/leetcode-history/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/rawat-is-here/leetcode-history/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/rawat-is-here/leetcode-history/tree/master/0219-contains-duplicate-ii) |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0014-longest-common-prefix](https://github.com/rawat-is-here/leetcode-history/tree/main/0014-longest-common-prefix/) | Easy |
 | [0067-add-binary](https://github.com/rawat-is-here/leetcode-history/tree/main/0067-add-binary/) | Easy |
 | [0500-keyboard-row](https://github.com/rawat-is-here/leetcode-history/tree/master/0500-keyboard-row) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/rawat-is-here/leetcode-history/tree/main/0599-minimum-index-sum-of-two-lists/) | Easy |
@@ -202,4 +204,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/rawat-is-here/leetcode-history/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/rawat-is-here/leetcode-history/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
+## Trie
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0014-longest-common-prefix](https://github.com/rawat-is-here/leetcode-history/tree/main/0014-longest-common-prefix/) | Easy |
 <!---LeetCode Topics End-->
