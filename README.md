@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0228-summary-ranges](https://github.com/rawat-is-here/leetcode-history/tree/master/0228-summary-ranges) |
 | [0268-missing-number](https://github.com/rawat-is-here/leetcode-history/tree/master/0268-missing-number) |
 | [0455-assign-cookies](https://github.com/rawat-is-here/leetcode-history/tree/master/0455-assign-cookies) |
+| [0463-island-perimeter](https://github.com/rawat-is-here/leetcode-history/tree/main/0463-island-perimeter/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/rawat-is-here/leetcode-history/tree/master/0485-max-consecutive-ones) |
 | [0495-teemo-attacking](https://github.com/rawat-is-here/leetcode-history/tree/master/0495-teemo-attacking) |
 | [0496-next-greater-element-i](https://github.com/rawat-is-here/leetcode-history/tree/master/0496-next-greater-element-i) |
@@ -169,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0463-island-perimeter](https://github.com/rawat-is-here/leetcode-history/tree/main/0463-island-perimeter/) | Easy |
 | [0566-reshape-the-matrix](https://github.com/rawat-is-here/leetcode-history/tree/main/0566-reshape-the-matrix/) | Easy |
 | [0661-image-smoother](https://github.com/rawat-is-here/leetcode-history/tree/main/0661-image-smoother/) | Easy |
 ## Union-Find
@@ -190,10 +192,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0463-island-perimeter](https://github.com/rawat-is-here/leetcode-history/tree/main/0463-island-perimeter/) | Easy |
 | [2685-count-the-number-of-complete-components](https://github.com/rawat-is-here/leetcode-history/tree/main/2685-count-the-number-of-complete-components/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0463-island-perimeter](https://github.com/rawat-is-here/leetcode-history/tree/main/0463-island-perimeter/) | Easy |
 | [2685-count-the-number-of-complete-components](https://github.com/rawat-is-here/leetcode-history/tree/main/2685-count-the-number-of-complete-components/) | Medium |
 ## Enumeration
 | Problem Name | Difficulty |
