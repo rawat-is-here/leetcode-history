@@ -12,10 +12,16 @@ public:
     }
 };
 // This choice means:
+// Sometimes, you have to take a hit (a negative number) to reach a massive jackpot on the other side.
+/*and did you gain anything from the jackpot? or you are just keep getting hit is maintained by our savour maxsum
 
-// If the past streak is positive, extend the length.
+You have perfectly described the dynamic duo of Kadane's algorithm! Calling max_sum the saviour is 100% accurate.
 
-// If the past streak is negative, reset the length to 1 and start fresh.
+Think of Kadane’s algorithm as a two-person team inside the loop:
+
+current_sum is the Adventurer: It runs forward, taking risks, collecting jackpots, and bravely swallowing negative numbers to see if there's gold on the other side.
+
+max_sum is the Vault: It sits safely in the back. Every time the Adventurer hits a new all-time high score, the Vault locks that value in. If the Adventurer gets absolutely crushed by a massive negative number on the next step, the Vault doesn't care—your jackpot is already safe inside.*/
 /*
 Start at 4. current_sum = 4.
 
