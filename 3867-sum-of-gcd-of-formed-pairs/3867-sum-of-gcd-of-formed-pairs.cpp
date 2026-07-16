@@ -1,47 +1,44 @@
+#include <vector>
+#include <algorithm>
+#include <numeric> // Essential for optimized std::gcd
+
+using namespace std;
+
+// Fast I/O optimization trick for Leetcode competitive environments
+auto speedup = []() {
+    ios_base::sync_with_stdio(false);
+    cin.tie(NULL);
+    return 0;
+}();
+
 class Solution {
 public:
-int gcd(int a, int b)
-        {
-            
-            while(a!=0 && b!=0)
-            {
-                if(a>b)
-                a = a%b;
-                else
-                b = b%a;
-            }
-                if(b == 0)
-                return a;
-                else 
-                return b;
-      
-        }
     long long gcdSum(vector<int>& nums) {
+        int n = nums.size();
         
+        // Optimize 1: Allocate exact memory upfront to avoid overhead allocations
+        vector<int> prefixGcd(n); 
         
-        vector<long long> prefixGcd;
-        int mxi = 0,gcdfinal;
-        long long sum = 0;
-        for(int j = 0;j<nums.size();j++)
-        {
-            sum+=nums[j];
-            mxi = max(nums[j], mxi);
-            gcdfinal = gcd(nums[j], mxi);
-            prefixGcd.push_back(gcdfinal);
+        int mxi = 0;
+        for(int j = 0; j < n; j++) {
+            if (nums[j] > mxi) {
+                mxi = nums[j];
+            }
+            // Optimize 2: Use compiler-optimized built-in GCD
+            prefixGcd[j] = std::gcd(nums[j], mxi); 
         }
+        
+        // Sorting remains O(n log n)
         sort(prefixGcd.begin(), prefixGcd.end());
-        sum = 0;
-        for(int a = 0, b = prefixGcd.size()-1; a<b; a++,b--)
-        {
-            sum = sum+gcd(prefixGcd[a],prefixGcd[b]);
-        }
-        return sum;
-
-
-
-
-
-
         
+        long long sum = 0;
+        int half = n / 2;
+        
+        // Optimize 3: Simplified loop bounds for cleaner CPU assembly compilation
+        for(int a = 0; a < half; a++) {
+            sum += std::gcd(prefixGcd[a], prefixGcd[n - 1 - a]);
+        }
+        
+        return sum;
     }
 };
