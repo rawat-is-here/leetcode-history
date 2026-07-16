@@ -9,10 +9,7 @@ public:
        
         int upper;
         int max = nums[0];
-        // if((n-1)%2==0)
-        // upper = (n-1)/2;
-        // else
-        upper = (n-1)/2+1;
+        upper = (n)/2;
         for(int i = 1;i<=upper;i++)
         {
             if(2*i>=2 && 2*i <=n)
