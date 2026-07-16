@@ -2,32 +2,18 @@ class Solution {
 public:
 
     vector<int> sequentialDigits(int low, int high) {
-        vector<int> temp;
-        int num = 0;
-
-        for(int i = 1; i<=9;i++)
+        string digits = "123456789";
+        vector<int> result;
+        for(int length = 2;length<=9;length++)
         {
-            num = 0;
-            num = num*10+i;
-            for(int j = i+1;j<=9;j++)
+            for(int i = 0;i<=9-length;i++)
             {
-               
-                    num = num*10+j;
-                    if(num<=high && num>=low)
-                    temp.push_back(num);
-
-                    else if(num<low)
-                    continue;
-                    
-                    else if(num>high)
-                    break;
-            }
-
-            // temp.push_back(i); //single digits always sequential
+                int num = stoi(digits.substr(i,length));
             
+            if(num>=low && num<=high)
+            result.push_back(num);\
+            }
         }
-        sort(temp.begin(), temp.end());
-    return temp;
-        
+        return result;
     }
 };
