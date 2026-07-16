@@ -1,21 +1,21 @@
 class Solution {
 public:
-int gcd(int a, int b)
-        {
+// int gcd(int a, int b)
+//         {
             
-            while(a!=0 && b!=0)
-            {
-                if(a>b)
-                a = a%b;
-                else
-                b = b%a;
-            }
-                if(b == 0)
-                return a;
-                else 
-                return b;
+//             while(a!=0 && b!=0)
+//             {
+//                 if(a>b)
+//                 a = a%b;
+//                 else
+//                 b = b%a;
+//             }
+//                 if(b == 0)
+//                 return a;
+//                 else 
+//                 return b;
       
-        }
+//         }
     long long gcdSum(vector<int>& nums) {
         
         
