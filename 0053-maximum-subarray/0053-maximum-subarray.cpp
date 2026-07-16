@@ -11,3 +11,8 @@ public:
         return maxsum;
     }
 };
+// This choice means:
+
+// If the past streak is positive, extend the length.
+
+// If the past streak is negative, reset the length to 1 and start fresh.
