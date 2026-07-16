@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0014-longest-common-prefix](https://github.com/rawat-is-here/leetcode-history/tree/main/0014-longest-common-prefix/) | Easy |
+| [0053-maximum-subarray](https://github.com/rawat-is-here/leetcode-history/tree/main/0053-maximum-subarray/) | Medium |
 | [0169-majority-element](https://github.com/rawat-is-here/leetcode-history/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/rawat-is-here/leetcode-history/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/rawat-is-here/leetcode-history/tree/master/0219-contains-duplicate-ii) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0053-maximum-subarray](https://github.com/rawat-is-here/leetcode-history/tree/main/0053-maximum-subarray/) | Medium |
 | [0169-majority-element](https://github.com/rawat-is-here/leetcode-history/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/rawat-is-here/leetcode-history/tree/main/0190-reverse-bits/) | Easy |
 ## Sorting
@@ -194,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0053-maximum-subarray](https://github.com/rawat-is-here/leetcode-history/tree/main/0053-maximum-subarray/) | Medium |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/rawat-is-here/leetcode-history/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/rawat-is-here/leetcode-history/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 ## Depth-First Search
