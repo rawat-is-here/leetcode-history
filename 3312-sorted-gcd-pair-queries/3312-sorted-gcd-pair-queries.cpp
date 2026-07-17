@@ -1,57 +1,45 @@
 class Solution {
 public:
-    vector<int> gcdValues(vector<int>& nums, vector<long long>& queries) {
-        // Find the maximum value in the nums array to establish our range
+    vector<int> gcdValues(vector<int>& nums, vector<long long>& queries){
+
         int max_val = *max_element(nums.begin(), nums.end());
-        
-        // Step 1: Count how many times each number appears in the input array
-        vector<long long> count(max_val + 1, 0);
-        for (int x : nums) {
-            count[x]++;
-        }
-        
-        // gcd_counts[g] will store the exact number of pairs whose GCD is exactly g
-        vector<long long> gcd_counts(max_val + 1, 0);
-        
-        // Step 2: Work backwards from max_val down to 1
-        for (int g = max_val; g >= 1; g--) {
-            
-            // Count how many total numbers in nums are multiples of g
-            long long total_multiples = 0;
-            for (int multiple = g; multiple <= max_val; multiple += g) {
-                total_multiples += count[multiple];
-            }
-            
-            // Calculate total possible pairs that share g as a common divisor
-            long long total_pairs = total_multiples * (total_multiples - 1) / 2;
-            
-            // Subtraction Step: Remove the pairs whose GREATEST common divisor 
-            // is actually a strictly higher multiple of g (e.g., 2g, 3g, 4g...)
-            for (int multiple = 2 * g; multiple <= max_val; multiple += g) {
-                total_pairs -= gcd_counts[multiple];
-            }
-            
-            // Store the finalized exact count of pairs for GCD = g
-            gcd_counts[g] = total_pairs;
-        }
-        
-        // Step 3: Create a running total (Prefix Sum) of the GCD counts
-        vector<long long> prefix_sums(max_val + 1, 0);
-        for (int i = 1; i <= max_val; i++) {
-            prefix_sums[i] = prefix_sums[i - 1] + gcd_counts[i];
-        }
-        
-        // Step 4: Map each query index to its corresponding GCD using binary search
-        vector<int> answer;
-        answer.reserve(queries.size());
-        
-        for (long long q : queries) {
-            // upper_bound finds the first position where the prefix sum is strictly greater than q
-            auto it = upper_bound(prefix_sums.begin(), prefix_sums.end(), q);
-            int actual_gcd = distance(prefix_sums.begin(), it);
-            answer.push_back(actual_gcd);
-        }
-        
-        return answer;
+    vector<int> count(max_val + 1, 0);
+    for (int i:nums) {
+        count[i]++;
     }
-};
+    // frequency calculation done
+    vector<long long> gcdcount(max_val + 1);
+    for (int factor = max_val; factor >= 1;factor--) // i wonder what if i make the loop from 1 to max
+    {
+        // vector<int> gcdcount(max_val+1);
+        for (int i = factor; i <= max_val; i += factor) {
+            gcdcount[factor] = gcdcount[factor] + count[i];
+        }
+        gcdcount[factor] = gcdcount[factor] * (gcdcount[factor] - 1) / 2;
+        for (int multiple = 2 * factor; multiple <= max_val; multiple += factor) {
+    gcdcount[factor] -= gcdcount[multiple];
+}
+        // here total number of multiples are converted to their pairs
+
+    } // when the compiler reaches here we will have gcdcount[] ready which will
+      // store number of pairs in the array for each factor 'g'
+    // now we need cumulative frequency implementation here
+
+    vector<long long> cumulative(max_val + 1, 0);
+    for (int i = 1; i <= max_val; i++) {
+        cumulative[i] = cumulative[i - 1] + gcdcount[i]; // this implementation gives us
+                                             // what we needs without sorting
+    }
+    vector<int> answer;
+    for (long long q : queries) {
+        auto it = upper_bound(cumulative.begin(), cumulative.end(), q);
+        // finds the just greater one
+        int actual_gcd = distance(cumulative.begin(), it); // finds the distace
+        answer.push_back(actual_gcd);
+    }
+
+    return answer;
+
+}
+}
+;
