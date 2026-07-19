@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0007-reverse-integer](https://github.com/rawat-is-here/leetcode-history/tree/main/0007-reverse-integer/) | Medium |
 | [0067-add-binary](https://github.com/rawat-is-here/leetcode-history/tree/main/0067-add-binary/) | Easy |
 | [0268-missing-number](https://github.com/rawat-is-here/leetcode-history/tree/master/0268-missing-number) |
 | [0598-range-addition-ii](https://github.com/rawat-is-here/leetcode-history/tree/main/0598-range-addition-ii/) | Easy |
