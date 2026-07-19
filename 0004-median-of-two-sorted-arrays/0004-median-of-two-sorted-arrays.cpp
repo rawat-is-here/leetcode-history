@@ -1,3 +1,4 @@
+/*this is linear scan, the progra demands O(log(m+n)*/
 class Solution {
 public:
     double findMedianSortedArrays(vector<int>& nums1, vector<int>& nums2) {
