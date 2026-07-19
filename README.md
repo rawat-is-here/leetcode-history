@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/rawat-is-here/leetcode-history/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0014-longest-common-prefix](https://github.com/rawat-is-here/leetcode-history/tree/main/0014-longest-common-prefix/) | Easy |
 | [0031-next-permutation](https://github.com/rawat-is-here/leetcode-history/tree/main/0031-next-permutation/) | Medium |
 | [0053-maximum-subarray](https://github.com/rawat-is-here/leetcode-history/tree/main/0053-maximum-subarray/) | Medium |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/rawat-is-here/leetcode-history/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0053-maximum-subarray](https://github.com/rawat-is-here/leetcode-history/tree/main/0053-maximum-subarray/) | Medium |
 | [0169-majority-element](https://github.com/rawat-is-here/leetcode-history/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/rawat-is-here/leetcode-history/tree/main/0190-reverse-bits/) | Easy |
@@ -122,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/rawat-is-here/leetcode-history/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0268-missing-number](https://github.com/rawat-is-here/leetcode-history/tree/master/0268-missing-number) |
 | [0704-binary-search](https://github.com/rawat-is-here/leetcode-history/tree/main/0704-binary-search/) | Easy |
 | [3312-sorted-gcd-pair-queries](https://github.com/rawat-is-here/leetcode-history/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
