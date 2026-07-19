@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0014-longest-common-prefix](https://github.com/rawat-is-here/leetcode-history/tree/main/0014-longest-common-prefix/) | Easy |
+| [0031-next-permutation](https://github.com/rawat-is-here/leetcode-history/tree/main/0031-next-permutation/) | Medium |
 | [0053-maximum-subarray](https://github.com/rawat-is-here/leetcode-history/tree/main/0053-maximum-subarray/) | Medium |
 | [0169-majority-element](https://github.com/rawat-is-here/leetcode-history/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/rawat-is-here/leetcode-history/tree/master/0217-contains-duplicate) |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0031-next-permutation](https://github.com/rawat-is-here/leetcode-history/tree/main/0031-next-permutation/) | Medium |
 | [0455-assign-cookies](https://github.com/rawat-is-here/leetcode-history/tree/master/0455-assign-cookies) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/rawat-is-here/leetcode-history/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/rawat-is-here/leetcode-history/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
