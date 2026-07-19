@@ -146,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/rawat-is-here/leetcode-history/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/rawat-is-here/leetcode-history/tree/main/0561-array-partition/) | Easy |
 | [0605-can-place-flowers](https://github.com/rawat-is-here/leetcode-history/tree/main/0605-can-place-flowers/) | Easy |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/rawat-is-here/leetcode-history/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/rawat-is-here/leetcode-history/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 ## Simulation
 | Problem Name | Difficulty |
@@ -161,10 +162,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0496-next-greater-element-i](https://github.com/rawat-is-here/leetcode-history/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/rawat-is-here/leetcode-history/tree/main/0682-baseball-game/) | Easy |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/rawat-is-here/leetcode-history/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0496-next-greater-element-i](https://github.com/rawat-is-here/leetcode-history/tree/master/0496-next-greater-element-i) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/rawat-is-here/leetcode-history/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -172,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/rawat-is-here/leetcode-history/tree/main/0067-add-binary/) | Easy |
 | [0500-keyboard-row](https://github.com/rawat-is-here/leetcode-history/tree/master/0500-keyboard-row) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/rawat-is-here/leetcode-history/tree/main/0599-minimum-index-sum-of-two-lists/) | Easy |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/rawat-is-here/leetcode-history/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/rawat-is-here/leetcode-history/tree/main/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii/) | Medium |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
