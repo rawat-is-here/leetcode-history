@@ -1,7 +1,7 @@
 class Solution {
 public:
     void nextPermutation(vector<int>& nums) {
-        //ye completely maine socha tha, peeche se ye dekho ki ascend kar raha hai ya nahi karr raha the moment you found a non sroted digit, swap it with the next one, just gemini changed it swap it with the upper bound one, to find just,....just next bigger one
+        //ye completely maine socha tha, peeche se ye dekho ki ascend kar raha hai ya nahi karr raha the moment you found a non sroted digit, swap it with the next one, just gemini changed it swap it with the upper bound one, to find just,....just next bigger one, and also one step missing from the algo is that we need to sort, the remaining last tail, which was disturbed by swapping
         int swapper;
         for(int i = nums.size()-1;i>=1;i--)
         {
@@ -24,3 +24,5 @@ public:
         
     }
 };
+
+/*this is called Narayana pandit algo*/
