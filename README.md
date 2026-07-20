@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/rawat-is-here/leetcode-history/tree/main/0682-baseball-game/) | Easy |
 | [0697-degree-of-an-array](https://github.com/rawat-is-here/leetcode-history/tree/main/0697-degree-of-an-array/) | Easy |
 | [0704-binary-search](https://github.com/rawat-is-here/leetcode-history/tree/main/0704-binary-search/) | Easy |
+| [1260-shift-2d-grid](https://github.com/rawat-is-here/leetcode-history/tree/main/1260-shift-2d-grid/) | Easy |
 | [1331-rank-transform-of-an-array](https://github.com/rawat-is-here/leetcode-history/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1646-get-maximum-in-generated-array](https://github.com/rawat-is-here/leetcode-history/tree/main/1646-get-maximum-in-generated-array/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/rawat-is-here/leetcode-history/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
@@ -161,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0495-teemo-attacking](https://github.com/rawat-is-here/leetcode-history/tree/master/0495-teemo-attacking) |
 | [0566-reshape-the-matrix](https://github.com/rawat-is-here/leetcode-history/tree/main/0566-reshape-the-matrix/) | Easy |
 | [0682-baseball-game](https://github.com/rawat-is-here/leetcode-history/tree/main/0682-baseball-game/) | Easy |
+| [1260-shift-2d-grid](https://github.com/rawat-is-here/leetcode-history/tree/main/1260-shift-2d-grid/) | Easy |
 | [1646-get-maximum-in-generated-array](https://github.com/rawat-is-here/leetcode-history/tree/main/1646-get-maximum-in-generated-array/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/rawat-is-here/leetcode-history/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Stack
@@ -202,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0463-island-perimeter](https://github.com/rawat-is-here/leetcode-history/tree/main/0463-island-perimeter/) | Easy |
 | [0566-reshape-the-matrix](https://github.com/rawat-is-here/leetcode-history/tree/main/0566-reshape-the-matrix/) | Easy |
 | [0661-image-smoother](https://github.com/rawat-is-here/leetcode-history/tree/main/0661-image-smoother/) | Easy |
+| [1260-shift-2d-grid](https://github.com/rawat-is-here/leetcode-history/tree/main/1260-shift-2d-grid/) | Easy |
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
