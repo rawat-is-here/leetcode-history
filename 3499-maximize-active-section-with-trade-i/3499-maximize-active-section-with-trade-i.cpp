@@ -25,6 +25,7 @@ public:
         // Push the final chunk.
         chunks.push_back(temp);
 
+
         int bestGain = 0;
 
         // Search only for valid 0-block | 1-block | 0-block patterns.
