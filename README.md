@@ -184,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0500-keyboard-row](https://github.com/rawat-is-here/leetcode-history/tree/master/0500-keyboard-row) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/rawat-is-here/leetcode-history/tree/main/0599-minimum-index-sum-of-two-lists/) | Easy |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/rawat-is-here/leetcode-history/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
+| [3499-maximize-active-section-with-trade-i](https://github.com/rawat-is-here/leetcode-history/tree/main/3499-maximize-active-section-with-trade-i/) | Medium |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/rawat-is-here/leetcode-history/tree/main/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii/) | Medium |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
@@ -236,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1291-sequential-digits](https://github.com/rawat-is-here/leetcode-history/tree/main/1291-sequential-digits/) | Medium |
+| [3499-maximize-active-section-with-trade-i](https://github.com/rawat-is-here/leetcode-history/tree/main/3499-maximize-active-section-with-trade-i/) | Medium |
 ## Number Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
