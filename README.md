@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/rawat-is-here/leetcode-history/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/rawat-is-here/leetcode-history/tree/main/3501-maximize-active-section-with-trade-ii/) | Hard |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/rawat-is-here/leetcode-history/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
+| [3514-number-of-unique-xor-triplets-ii](https://github.com/rawat-is-here/leetcode-history/tree/main/3514-number-of-unique-xor-triplets-ii/) | Medium |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/rawat-is-here/leetcode-history/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/rawat-is-here/leetcode-history/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/rawat-is-here/leetcode-history/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3312-sorted-gcd-pair-queries](https://github.com/rawat-is-here/leetcode-history/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/rawat-is-here/leetcode-history/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/rawat-is-here/leetcode-history/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
+| [3514-number-of-unique-xor-triplets-ii](https://github.com/rawat-is-here/leetcode-history/tree/main/3514-number-of-unique-xor-triplets-ii/) | Medium |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/rawat-is-here/leetcode-history/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/rawat-is-here/leetcode-history/tree/main/3754-concatenate-non-zero-digits-and-multiply-by-sum-i/) | Easy |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/rawat-is-here/leetcode-history/tree/main/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii/) | Medium |
@@ -144,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/rawat-is-here/leetcode-history/tree/master/0268-missing-number) |
 | [0645-set-mismatch](https://github.com/rawat-is-here/leetcode-history/tree/main/0645-set-mismatch/) | Easy |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/rawat-is-here/leetcode-history/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
+| [3514-number-of-unique-xor-triplets-ii](https://github.com/rawat-is-here/leetcode-history/tree/main/3514-number-of-unique-xor-triplets-ii/) | Medium |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/rawat-is-here/leetcode-history/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -244,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [1291-sequential-digits](https://github.com/rawat-is-here/leetcode-history/tree/main/1291-sequential-digits/) | Medium |
 | [3499-maximize-active-section-with-trade-i](https://github.com/rawat-is-here/leetcode-history/tree/main/3499-maximize-active-section-with-trade-i/) | Medium |
+| [3514-number-of-unique-xor-triplets-ii](https://github.com/rawat-is-here/leetcode-history/tree/main/3514-number-of-unique-xor-triplets-ii/) | Medium |
 ## Number Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
