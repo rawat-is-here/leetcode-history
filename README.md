@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/rawat-is-here/leetcode-history/tree/main/0704-binary-search/) | Easy |
 | [1260-shift-2d-grid](https://github.com/rawat-is-here/leetcode-history/tree/main/1260-shift-2d-grid/) | Easy |
 | [1331-rank-transform-of-an-array](https://github.com/rawat-is-here/leetcode-history/tree/main/1331-rank-transform-of-an-array/) | Easy |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/rawat-is-here/leetcode-history/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1646-get-maximum-in-generated-array](https://github.com/rawat-is-here/leetcode-history/tree/main/1646-get-maximum-in-generated-array/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/rawat-is-here/leetcode-history/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [3312-sorted-gcd-pair-queries](https://github.com/rawat-is-here/leetcode-history/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/rawat-is-here/leetcode-history/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0645-set-mismatch](https://github.com/rawat-is-here/leetcode-history/tree/main/0645-set-mismatch/) | Easy |
 | [1331-rank-transform-of-an-array](https://github.com/rawat-is-here/leetcode-history/tree/main/1331-rank-transform-of-an-array/) | Easy |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/rawat-is-here/leetcode-history/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/rawat-is-here/leetcode-history/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 | [3536-maximum-product-of-two-digits](https://github.com/rawat-is-here/leetcode-history/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/rawat-is-here/leetcode-history/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
@@ -201,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0506-relative-ranks](https://github.com/rawat-is-here/leetcode-history/tree/main/0506-relative-ranks/) | Easy |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/rawat-is-here/leetcode-history/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
