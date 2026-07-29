@@ -1,3 +1,4 @@
+/*this solution is only for streak, nothing mine*/
 class Solution {
 public:
     const long long LIM = 1000001;
