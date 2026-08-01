@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/rawat-is-here/leetcode-history/tree/master/0455-assign-cookies) |
 | [0463-island-perimeter](https://github.com/rawat-is-here/leetcode-history/tree/main/0463-island-perimeter/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/rawat-is-here/leetcode-history/tree/master/0485-max-consecutive-ones) |
+| [0486-predict-the-winner](https://github.com/rawat-is-here/leetcode-history/tree/main/0486-predict-the-winner/) | Medium |
 | [0495-teemo-attacking](https://github.com/rawat-is-here/leetcode-history/tree/master/0495-teemo-attacking) |
 | [0496-next-greater-element-i](https://github.com/rawat-is-here/leetcode-history/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/rawat-is-here/leetcode-history/tree/master/0500-keyboard-row) |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/rawat-is-here/leetcode-history/tree/main/0007-reverse-integer/) | Medium |
 | [0067-add-binary](https://github.com/rawat-is-here/leetcode-history/tree/main/0067-add-binary/) | Easy |
 | [0268-missing-number](https://github.com/rawat-is-here/leetcode-history/tree/master/0268-missing-number) |
+| [0486-predict-the-winner](https://github.com/rawat-is-here/leetcode-history/tree/main/0486-predict-the-winner/) | Medium |
 | [0598-range-addition-ii](https://github.com/rawat-is-here/leetcode-history/tree/main/0598-range-addition-ii/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/rawat-is-here/leetcode-history/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/rawat-is-here/leetcode-history/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
@@ -247,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0053-maximum-subarray](https://github.com/rawat-is-here/leetcode-history/tree/main/0053-maximum-subarray/) | Medium |
+| [0486-predict-the-winner](https://github.com/rawat-is-here/leetcode-history/tree/main/0486-predict-the-winner/) | Medium |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/rawat-is-here/leetcode-history/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/rawat-is-here/leetcode-history/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 ## Depth-First Search
@@ -286,4 +289,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/rawat-is-here/leetcode-history/tree/main/3501-maximize-active-section-with-trade-ii/) | Hard |
+## Recursion
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0486-predict-the-winner](https://github.com/rawat-is-here/leetcode-history/tree/main/0486-predict-the-winner/) | Medium |
+## Game Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0486-predict-the-winner](https://github.com/rawat-is-here/leetcode-history/tree/main/0486-predict-the-winner/) | Medium |
 <!---LeetCode Topics End-->
