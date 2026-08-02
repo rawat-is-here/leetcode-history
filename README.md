@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/rawat-is-here/leetcode-history/tree/main/0682-baseball-game/) | Easy |
 | [0697-degree-of-an-array](https://github.com/rawat-is-here/leetcode-history/tree/main/0697-degree-of-an-array/) | Easy |
 | [0704-binary-search](https://github.com/rawat-is-here/leetcode-history/tree/main/0704-binary-search/) | Easy |
+| [0877-stone-game](https://github.com/rawat-is-here/leetcode-history/tree/main/0877-stone-game/) | Medium |
 | [1260-shift-2d-grid](https://github.com/rawat-is-here/leetcode-history/tree/main/1260-shift-2d-grid/) | Easy |
 | [1331-rank-transform-of-an-array](https://github.com/rawat-is-here/leetcode-history/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/rawat-is-here/leetcode-history/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/rawat-is-here/leetcode-history/tree/main/0486-predict-the-winner/) | Medium |
 | [0598-range-addition-ii](https://github.com/rawat-is-here/leetcode-history/tree/main/0598-range-addition-ii/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/rawat-is-here/leetcode-history/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
+| [0877-stone-game](https://github.com/rawat-is-here/leetcode-history/tree/main/0877-stone-game/) | Medium |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/rawat-is-here/leetcode-history/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/rawat-is-here/leetcode-history/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3312-sorted-gcd-pair-queries](https://github.com/rawat-is-here/leetcode-history/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
@@ -250,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0053-maximum-subarray](https://github.com/rawat-is-here/leetcode-history/tree/main/0053-maximum-subarray/) | Medium |
 | [0486-predict-the-winner](https://github.com/rawat-is-here/leetcode-history/tree/main/0486-predict-the-winner/) | Medium |
+| [0877-stone-game](https://github.com/rawat-is-here/leetcode-history/tree/main/0877-stone-game/) | Medium |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/rawat-is-here/leetcode-history/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/rawat-is-here/leetcode-history/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 ## Depth-First Search
@@ -297,4 +300,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0486-predict-the-winner](https://github.com/rawat-is-here/leetcode-history/tree/main/0486-predict-the-winner/) | Medium |
+| [0877-stone-game](https://github.com/rawat-is-here/leetcode-history/tree/main/0877-stone-game/) | Medium |
 <!---LeetCode Topics End-->
