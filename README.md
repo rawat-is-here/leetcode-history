@@ -248,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2685-count-the-number-of-complete-components](https://github.com/rawat-is-here/leetcode-history/tree/main/2685-count-the-number-of-complete-components/) | Medium |
+| [3310-remove-methods-from-project](https://github.com/rawat-is-here/leetcode-history/tree/main/3310-remove-methods-from-project/) | Medium |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/rawat-is-here/leetcode-history/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/rawat-is-here/leetcode-history/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 ## Dynamic Programming
@@ -263,11 +264,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0463-island-perimeter](https://github.com/rawat-is-here/leetcode-history/tree/main/0463-island-perimeter/) | Easy |
 | [2685-count-the-number-of-complete-components](https://github.com/rawat-is-here/leetcode-history/tree/main/2685-count-the-number-of-complete-components/) | Medium |
+| [3310-remove-methods-from-project](https://github.com/rawat-is-here/leetcode-history/tree/main/3310-remove-methods-from-project/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0463-island-perimeter](https://github.com/rawat-is-here/leetcode-history/tree/main/0463-island-perimeter/) | Easy |
 | [2685-count-the-number-of-complete-components](https://github.com/rawat-is-here/leetcode-history/tree/main/2685-count-the-number-of-complete-components/) | Medium |
+| [3310-remove-methods-from-project](https://github.com/rawat-is-here/leetcode-history/tree/main/3310-remove-methods-from-project/) | Medium |
 ## Enumeration
 | Problem Name | Difficulty |
 | ------- | ------- |
