@@ -1,3 +1,4 @@
+/*pnly for streak*/
 class Solution {
 public:
     vector<int> resultArray(vector<int>& nums) {
@@ -23,4 +24,4 @@ public:
         
         return arr1;
     }
-};
+}; 
